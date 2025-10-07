@@ -105,7 +105,7 @@ python src\train_unsupervised.py
 ---
 
 ## 💫 Faculty Guidance
-This project was carried out under the guidance of the Kavitha P.
+This project was carried out under the guidance of the Dr.Kavitha P.
 **Department of Computer Science, PES University**.  
 We are grateful for the support and mentorship provided by the faculty during the course of this mini project.
 
