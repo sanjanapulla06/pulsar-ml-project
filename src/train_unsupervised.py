@@ -23,6 +23,7 @@ def run_som(X_pos, x=5, y=5, iters=200, random_seed=42):
     som.random_weights_init(X_pos)
     som.train_random(X_pos, iters)
     win_map = [som.winner(xi) for xi in X_pos]
+    
     return som, win_map
 
 if __name__ == '__main__':
